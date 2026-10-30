@@ -21,7 +21,7 @@ I build practical, open-source tools – from local LLM helpers to devices that 
 
 ## 📫 Find me
 
-- 🎥 YouTube: [@DarkZachi83](https://www.youtube.com/@DarkZachi83) – tutorials for my tools (Polish narration, subtitles in EN/DE/FR/ES)
+- 🎥 YouTube: [@DarkZachi83](https://www.youtube.com/@DarkZachi83) – first tutorials coming soon (Polish narration, subtitles in EN/DE/FR/ES)
 - 💼 LinkedIn: [Rafał Zacharski](https://www.linkedin.com/in/rafa%C5%82-zacharski-aa9468165/)
 
 Found a bug or have an idea? Open an issue in the project's repo – I read every one.
